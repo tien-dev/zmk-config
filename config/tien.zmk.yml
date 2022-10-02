@@ -1,0 +1,12 @@
+file_format: "1"
+id: tien
+name: Tien
+type: shield
+url: https://github.com/mattdibi/redox-keyboard
+requires: [pro_micro]
+features:
+  - keys
+  - underglow
+siblings:
+  - tien_left
+  - tien_right
